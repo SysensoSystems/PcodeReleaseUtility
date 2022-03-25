@@ -11,6 +11,10 @@ How to use:
 1. Add PcodeReleaseUtility and PcodeReleaseUtility\utils folders into MATLAB path.
 2. Run ">> pcodeGUI" in the MATLAB command window to run the tool
 
+
+MATLAB Release Compatibility: Created with R2015b, Compatible from R2015b releases.
+
+
 Developed by: Sysenso Systems, www.sysenso.com
 
 Contact: contactus@sysenso.com
